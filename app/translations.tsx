@@ -39,17 +39,17 @@ export const translations = {
           "try": "https://guilhermehvsantos.github.io/Jojo-SuperTrunfo/"
         },
         {
-          "name": "Soon 2",
-          "link": "https://github.com/guilhermehvsantos",
-          "description": "Under construction",
-          "image": " ",
+          "name": "Pokedex",
+          "link": "https://github.com/guilhermehvsantos/Pokedex",
+          "description": "Pokedex using TypeScript and React working with Fetch API.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png?20161023215848",
           "try": "https://guilhermehvsantos.github.io/Pokedex/"
         },        
         {
-          "name": "Soon 3",
-          "link": "https://github.com/guilhermehvsantos",
-          "description": "Under construction",
-          "image": " "
+          "name": "Event Master",
+          "link": "https://github.com/guilhermehvsantos/POO-2024-1-Equipe07",
+          "description": "Ticket management platform in Java using Swing and SQL.",
+          "image": "https://raw.githubusercontent.com/guilhermehvsantos/POO-2024-1-Equipe07/refs/heads/main/Cod/src/main/java/Assets/eventMaster.png"
         }
       ]
     },
@@ -97,10 +97,10 @@ export const translations = {
           "try": "https://guilhermehvsantos.github.io/Pokedex/"
         },
         {
-          "name": "Em breve 3",
-          "link": "https://github.com/guilhermehvsantos",
-          "description": "Em construção",
-          "image": " "
+          "name": "Event Master",
+          "link": "https://github.com/guilhermehvsantos/POO-2024-1-Equipe07",
+          "description": "Plataforma de gerenciamento de ingressos em Java usando Swing e SQL",
+          "image": "https://raw.githubusercontent.com/guilhermehvsantos/POO-2024-1-Equipe07/refs/heads/main/Cod/src/main/java/Assets/eventMaster.png"
         }
       ]
     },

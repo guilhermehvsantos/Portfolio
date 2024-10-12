@@ -318,7 +318,7 @@ export default function Component() {
       {t.projects.title}
     </h3>
     <h2
-    className={`mb-4 ${
+    className={`mb-12 ${
       darkMode
       ? 'text-lg text-violet-200'
       : 'text-lg text-blue-700'
