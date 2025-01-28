@@ -8,7 +8,7 @@ interface SectionIds {
 interface Translations {
   name: string;
   nav: string[];
-  sectionIds: SectionIds; // Definindo o tipo para sectionIds
+  sectionIds: SectionIds; 
 }
 export const translations = {
   en: {
@@ -50,6 +50,13 @@ export const translations = {
           "link": "https://github.com/guilhermehvsantos/POO-2024-1-Equipe07",
           "description": "Ticket management platform in Java using Swing and SQL.",
           "image": "https://raw.githubusercontent.com/guilhermehvsantos/POO-2024-1-Equipe07/refs/heads/main/Cod/src/main/java/Assets/eventMaster.png"
+        },
+        {
+          "name": "ADASPStock",
+          "link": "https://github.com/guilhermehvsantos/PI---SENAC-4-SEMESTRE",
+          "description": "Web platform for inventory management. Designed to streamline and organize the inflow and outflow of products.",
+          "image": "https://raw.githubusercontent.com/guilhermehvsantos/PI---SENAC-4-SEMESTRE/refs/heads/main/ADASPStock/src/main/resources/static/adasp.png",
+          "try": "https://www.youtube.com/watch?v=3NbT76TXASU"
         }
       ]
     },
@@ -101,6 +108,13 @@ export const translations = {
           "link": "https://github.com/guilhermehvsantos/POO-2024-1-Equipe07",
           "description": "Plataforma de gerenciamento de ingressos em Java usando Swing e SQL",
           "image": "https://raw.githubusercontent.com/guilhermehvsantos/POO-2024-1-Equipe07/refs/heads/main/Cod/src/main/java/Assets/eventMaster.png"
+        },
+        {
+          "name": "ADASPStock",
+          "link": "https://github.com/guilhermehvsantos/PI---SENAC-4-SEMESTRE",
+          "description": "Plataforma web para gerenciamento de estoque. Projetada para facilitar e gerir de forma organizada a entrada e saída de produtos.",
+          "image": "https://raw.githubusercontent.com/guilhermehvsantos/PI---SENAC-4-SEMESTRE/refs/heads/main/ADASPStock/src/main/resources/static/adasp.png",
+          "try": "https://www.youtube.com/watch?v=3NbT76TXASU"
         }
       ]
     },
