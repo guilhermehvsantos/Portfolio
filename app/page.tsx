@@ -85,7 +85,7 @@ export default function Component() {
         toggleLanguage={toggleLanguage}
         t={t}
       />
-      <main className="pt-20">
+      <main>
         <Home darkMode={darkMode} t={t} />
 
         <About darkMode={darkMode} t={t} skillIcons={skillIcons} />
