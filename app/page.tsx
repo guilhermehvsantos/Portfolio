@@ -74,7 +74,7 @@ export default function Component() {
 
   return (
     <div
-      className={`min-h-screen ${
+      className={`min-h-screen transition-colors duration-300 ${
         darkMode ? "bg-gray-900 text-pink-100" : "bg-blue-50 text-blue-900"
       }`}
     >
