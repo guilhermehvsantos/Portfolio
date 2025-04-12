@@ -68,6 +68,13 @@ export const translations = {
             "https://raw.githubusercontent.com/guilhermehvsantos/PI---SENAC-4-SEMESTRE/refs/heads/main/ADASPStock/src/main/resources/static/adasp.png",
           try: "https://www.youtube.com/watch?v=3NbT76TXASU",
         },
+        {
+          name: "FixIt",
+          link: "https://github.com/guilhermehvsantos/Fixit-Deploy-Docker",
+          description: "Support platform with ticket management system. Built using React, Spring Boot, and H2 database.",
+          image: "https://fixit-pi-five.vercel.app/images/LogoFixit.png",
+          try: "https://fixit-pi-five.vercel.app/"
+        },       
       ],
     },
     contact: {
@@ -136,6 +143,13 @@ export const translations = {
             "https://raw.githubusercontent.com/guilhermehvsantos/PI---SENAC-4-SEMESTRE/refs/heads/main/ADASPStock/src/main/resources/static/adasp.png",
           try: "https://www.youtube.com/watch?v=3NbT76TXASU",
         },
+        {
+          name: "FixIt",
+          link: "https://github.com/guilhermehvsantos/Fixit-Deploy-Docker",
+          description: "Plataforma de suporte com controle de chamados. Desenvolvida com React, Spring Boot e banco de dados H2.",
+          image: "https://fixit-pi-five.vercel.app/images/LogoFixit.png",
+          try: "https://fixit-pi-five.vercel.app/"
+        },       
       ],
     },
     contact: {
